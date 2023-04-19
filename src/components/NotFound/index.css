@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-found {
+  width: 35%;
+}
+.description {
+  color: #616e7c;
+  text-align: center;
+}
